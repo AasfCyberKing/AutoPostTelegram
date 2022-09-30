@@ -37,9 +37,7 @@ while True:
 ```
 from AutoPostTelegram import auto
 
-x = auto(TOKEN)
-
-print(x.endpoints())
+print(auto.endpoints())
 ```
 # Output
 ```
