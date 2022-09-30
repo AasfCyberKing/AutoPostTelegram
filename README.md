@@ -12,7 +12,6 @@ $ python3 -m pip install -U AutoPostTelegram
 
 # To Post Single Anime Meme
 ```
-import asyncio
 from AutoPostTelegram import auto
 
 x = auto(TOKEN)
