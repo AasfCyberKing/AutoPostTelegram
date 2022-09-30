@@ -45,7 +45,7 @@ print(x.endpoints())
 ```
 • animeme
 • animegifs
-• randomfact
+• animalfact
 ```
 
 # Known Issues
