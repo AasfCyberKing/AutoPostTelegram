@@ -13,7 +13,7 @@ $ python3 -m pip install -U AutoPostTelegram
 # To Post Single Anime Meme
 ```
 import asyncio
-from Stuffs import auto
+from AutoPostTelegram import auto
 
 x = auto(TOKEN)
 
@@ -23,7 +23,7 @@ x.animememe(chat="@AnimeMeme")
 # To Post Anime Memes Infinity
 ```
 import asyncio
-from Stuffs import auto
+from AutoPostTelegram import auto
 
 x = auto(TOKEN)
 
@@ -35,7 +35,7 @@ while True:
 
 # Get Endpoints
 ```
-from Stuffs import auto
+from AutoPostTelegram import auto
 
 x = auto(TOKEN)
 
