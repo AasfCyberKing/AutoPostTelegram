@@ -41,6 +41,12 @@ x = auto(TOKEN)
 
 print(x.endpoints())
 ```
+# Output
+```
+• animeme
+• animegifs
+• randomfact
+```
 
 # Known Issues
 ```
